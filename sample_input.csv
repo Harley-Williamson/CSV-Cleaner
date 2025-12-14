@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,address,city,state,zip,phone,email,service_type,property_type,last_service_date,next_service_due
+1,Brittany,Tucker,474 Knight Green,Richardview,NC,25636,(513)125-6094x8820,brittany.tucker@example.com,One-Time,Residential,2025-12-08,2026-01-07
+2,Sandy,Smith,8221 Johnson Via Apt. 310,North Mistyburgh,VA,76549,017-582-5785x688,sandy.smith@example.com,One-Time,Commercial,2025-12-08,2026-03-08
+3,Jack,Fletcher,170 Kayla Course,West Juliaborough,MD,77960,001-330-350-6564x60838,jack.fletcher@example.com,Weekly,Commercial,2025-12-08,2026-01-07
+4,Melissa,Phillips,798 Goodman Ridge Suite 106,East Alexismouth,MD,84886,+1-440-157-6938x7090,melissa.phillips@example.com,Quarterly,Commercial,2025-12-08,2026-02-06
+5,Mary,Martin,365 Christian Radial Apt. 996,Melissashire,PA,64264,083.077.4740x753,mary.martin@example.com,Quarterly,Residential,2025-12-08,2026-01-07
+6,Michael,Lucas,810 Corey Isle Apt. 305,East Joshua,SC,26633,001-517-636-8953,michael.lucas@example.com,Weekly,Commercial,2025-12-08,2026-02-06
+7,Melissa,Barton,7660 Colleen Union Suite 068,Reidside,NC,92171,995-701-0182x4162,melissa.barton@example.com,Quarterly,Commercial,2025-12-08,2026-02-06
+8,Rachel,Taylor,756 Davenport Station,Hollowayborough,  PA,50133,(443)411-6514x35229,rachel.taylor@example.com,One-Time,Residential,2025-12-08,2026-03-08
+9,Matthew,Wilson,295 Michele Neck,Ivanmouth,PA,52737,+1-949-842-1139x92122,matthew.wilson@example.com,Weekly,Commercial,2025-12-08,2026-03-08
+10,Robin,Harris,271 Jeffrey Place Suite 758,Samanthahaven,NC,32866,(662)692-3796x2597,robin.harris@example.com,One-Time,Residential,2025-12-08,2026-02-06
+11,Amy,Jones,075 Hogan Rapids,Chambersshire,VA,65186,483-193-5142,amy.jones@example.com,One-Time,Commercial,2025-12-08,2026-02-06
+12,Megan,Pena,46446 Cruz Plaza Suite 846,Santosville,MD,05786,(399)633-6560x20896,megan.pena@example.com,Monthly,Commercial,2025-12-08,2026-02-06
+13,Jody,Obrien,93445 Smith Viaduct,East Debra,MD,70812,656-432-0461,jody.obrien@example.com,One-Time,Residential,2025-12-08,2026-02-06
+14,Adam,Hunt,08843 Danielle Drive Suite 013,West Danafurt,SC,33883,427.614.2794x572,adam.hunt@example.com,Monthly,Commercial,2025-12-08,2026-01-07
+15,Theresa,Harrell,003 Sierra Crescent Suite 266,Richardchester,NC,32752,001-229-722-8347x66329,theresa.harrell@example.com,One-Time,Residential,2025-12-08,2026-02-06
+16,Justin,Herman,3000 Richardson Mission Apt. 553,East Joseph,PA,16264,(864)041-8256,justin.herman@example.com,Weekly,Commercial,2025-12-08,2026-01-07
+17,Jonathan,Sullivan,83383 Estrada Island Suite 995,Nicholsshire,MD,95544,130-665-2117,jonathan.sullivan@example.com,One-Time,Residential,2025-12-08,2026-03-08
+18,Jared,Gonzalez,0322 Nicholas Junction Suite 308,Lisashire,PA,54978,502-312-2171,jared.gonzalez@example.com,Quarterly,Commercial,2025-12-08,2026-01-07
+19,Christopher,Johnson,64710 Alyssa Isle,North Amberborough,VA,83268,045-791-6985x78312,christopher.johnson@example.com,Monthly,Commercial,2025-12-08,2026-02-06
+20,Matthew,Fisher,3201 Christopher Junctions Apt. 956,Kathleenhaven,SC,92987,001-878-279-6253x1083,matthew.fisher@example.com,Quarterly,Commercial,2025-12-08,2026-02-06
+21,Paul,West,78376 Austin Inlet,West Emily,SC,34214,3255114588,paul.west@example.com,Quarterly,Commercial,2025-12-08,2026-01-07
+22,Tracey,Smith,608 Ortiz Shoal,Ericstad,N  C,24433,6307017049,tracey.smith@example.com,Quarterly,Commercial,2025-12-08,2026-01-07
+23,Anna,Madden,303 Jessica Shore,Wrightside,MD,15572,911-585-8421x43011,anna.madden@example.com,Quarterly,Residential,2025-12-08,2026-02-06
+24,Erin,Hull,174 Jeremy Stream,Hawkinsstad,MD,06816,001-097-120-0048x02031,erin.hull@example.com,Quarterly,Residential,2025-12-08,2026-01-07
+25,Michael,Jones,6111 Lucas Plaza,Port Amy,GA,04456,672-334-5317x48725,michael.  jones@example.com,Quarterly,Commercial,2025-12-08,2026-01-07
+26,Martin,Wilson,67376 Bentley Orchard Apt. 255,South Jonathan,VA,16352,691-820-5457,martin.wilson@example.com,Weekly,Residential,2025-12-08,2026-03-08
+27,Lawrence,Stephens,70799 Ramirez Camp,Michellebury,SC,55387,339.128.6360x5684,lawrence.stephens@example.com,Monthly,Commercial,2025-12-08,2026-02-06
+28,Vanessa,Mora,1773 Howard Island Suite 938,Jonesborough,VA,41002,001-118-968-1961,vanessa.mora@example.com,Quarterly,Residential,2025-12-08,2026-02-06
+29,Joseph,Lawson,4613 Hall Gardens Suite 074,Bennettchester,MD,39429,(067)492-7548,joseph.lawson@example.com,Bi-Monthly,Residential,2025-12-08,2026-01-07
+30,Donna,Moore,33244 Armstrong Motorway,South Gina,VA,72039,7509242590,donna.moore@example.com,Monthly,Commercial,2025-12-08,2026-03-08
+31,Tonya,Berger,2218 Reyes Forge Suite 099,Port Debbieton,MD,67972,001-876-468-3576x960,tonya.berger@example.com,Weekly,Commercial,2025-12-08,2026-03-08
+32,James,Price,1428 Joseph Green,Meyerhaven,MD,60491,001-087-320-5531,james.price@example.com,Quarterly,Residential,2025-12-08,2026-01-07
+33,Joshua,Martinez,23216 Pearson Ramp Apt. 988,Port Annaton,NC,81956,858-019-4801x607,joshua.martinez@example.com,Weekly,Residential,2025-12-08,2026-01-07
+34,Diana,Dillon,97704 Krista Ways,Patelshire,PA,94460,821-269-6475x95863,diana.dillon@example.com,Weekly,Commercial,2025-12-08,2026-01-07
+35,Morgan,Martinez,31640 Kirk Plains Suite 209,Weberfort,VA,69225,778.583.3536x44353,morgan.martinez@example.com,Weekly,Commercial,2025-12-08,2026-01-07
+36,Stephanie,Nicholson,641 Lee Port Suite 969,East Amybury,MD,50031,001-466-085-6454x93153,stephanie.nicholson@example.com,Quarterly,Commercial,2025-12-08,2026-03-08
+37,Kimberly,Dyer,415 Carla Bypass,Wadeview,SC,92846,491.291.4840,kimberly.dyer@example.com,Monthly,Residential,2025-12-08,2026-03-08
+38,Joan,Rios,73959 Katherine Freeway Apt. 340,Lake Michellebury,VA,28456,+1-332-409-3206x925,joan.rios@example.com,Bi-Monthly,Commercial,2025-12-08,2026-03-08
+39,Steven,Thompson,456 Ferguson Mountain,Lake Samantha,NC,48261,(938)631-1604,steven.thompson@example.com,Quarterly,Commercial,2025-12-08,2026-01-07
+40,Melissa,Manning,491 Hays Ford,Port Heathertown,NC,35991,+1-991-844-2356x68717,melissa.manning@example.com,Weekly,Residential,2025-12-08,2026-02-06
+41,Billy,Butler,3101 Rosario Road,Jeffreyton,PA,73213,001-082-583-7858x363,billy.butler@example.com,One-Time,Residential,2025-12-08,2026-02-06
+42,Rachel,Kaiser,8933 Novak Spurs,Ibarrabury,MD,8  4633,283.455.2814,rachel.kaiser@example.com,Monthly,Residential,2025-12-08,2026-03-08
+43,Dakota,Blevins,63218 Derek Plains,Port Dennis,PA,68758,7509055260,dakota.blevins@example.com,One-Time,Commercial,2025-12-08,2026-02-06
+44,James,Cruz,57965 Benjamin Wall,Tylerstad,NC,94292,004-051-1191,james.cruz@example.com,Bi-Monthly,Commercial,2025-12-08,2026-03-08
+45,Wanda,Hansen,2551 Monica Drive Suite 473,Patriciamouth,MD,62653,001-376-510-3069x3869,wanda.hansen@example.com,One-Time,Commercial,2025-12-08,2026-03-08
+46,Priscilla,Coleman,74927 Alexandra Prairie,Baldwinville,NC,10765,789.314.8599,priscilla.coleman@example.com,One-Time,Residential,2025-12-08,2026-01-07
+47,Louis,Smith,428 Barbara Path,North Kimberly,MD,02274,922.167.9522x8257,louis.smith@example.com,Quarterly,Residential,2025-12-08,2026-03-08
+48,Scott,Smith,89462 Melanie Common Apt. 377,Christianmouth,PA,05901,(500)874-6226x020,scott.smith@example.com,Monthly,Commercial,2025-12-08,2026-01-07
+49,Lawrence,White,833 Hicks Crest,Mcneilshire,PA,49269,(080)313-3063x94106,lawrence.white@example.com,Monthly,Residential,2025-12-08,2026-01-07
+50,Charles,Hampton,7462 Derrick Points Apt. 711,East Jamesstad,GA,40796,3512070598,charles.hampton@example.com,Weekly,Residential,2025-12-08,2026-01-07
+51,Matthew,Simpson,70117 Brandon Green,Cynthiahaven,MD,50617,073.981.5638,matthew.simpson@example.com,Bi-Monthly,Residential,2025-12-08,2026-02-06
+52,Jacob,Scott,1652 Yvonne Causeway,Jonesville,VA,74660,+1-990-397-5291x2463,jacob.scott@example.com,Quarterly,Commercial,2025-12-08,2026-03-08
+53,Nathan,Ortiz,3964 Erik Cape Apt. 809,Morristown,SC,98883,001-401-341-6263x57540,nathan.ortiz@example.com,Quarterly,Commercial,2025-12-08,2026-02-06
+54,Andres,Contreras,97046 Erickson Courts,Marcusfort,VA,54869,880-371-4729,andres.contreras@example.com,Monthly,Residential,2025-12-08,2026-02-06
+55,Lisa,Foley,773 Banks Highway Suite 687,Kristopherberg,SC,34403,549-872-9512x9626,lisa.foley@example.com,Monthly,Residential,2025-12-08,2026-02-06
+56,Michelle,Carroll,619 Jordan Highway Suite 663,Markbury,VA,36011,001-706-849-9956x877,michelle.carroll@example.com,Weekly,Commercial,2025-12-08,2026-01-07
+57,Brandon,King,606 Mary Stravenue,New Wayne,PA,37367,118.822.4127x1251,brandon.king@example.com,Bi-Monthly,Residential,2025-12-08,2026-03-08
+58,Krystal,Jenkins,71021 Stefanie Mountain,Youngview,SC,02268,(130)215-6107,krystal.jenkins@example.com,Monthly,Residential,2025-12-08,2026-02-06
+59,Karla,Morris,27352 Phillips Vista,Cruzborough,PA,57384,771.147.6844,karla.morris@example.com,One-Time,Commercial,2025-12-08,2026-02-06
+60,Curtis,Willis,07832 Joseph Port,Careyton,MD,60860,6802000804,curtis.willis@example.com,Quarterly,Residential,2025-12-08,2026-02-06
+61,Vincent,Smith,120 Andrew Falls Suite 267,North Bryan,GA,66282,001-190-747-5028x3387,vincent.smith@example.com,Quarterly,Residential,2025-12-08,2026-03-08
+62,Jonathan,Davis,0415 Kristin Groves,Paulfort,NC,05093,001-516-889-0942x81099,jonathan.davis@example.com,Monthly,Residential,2025-12-08,2026-01-07
+63,Craig,Morris,9802 Harris Shore Apt. 486,Millerview,GA,13113,+1-709-537-6892x0807,craig.morris@example.com,Monthly,Residential,2025-12-08,2026-01-07
+64,Stacy,Taylor,761 Brian Inlet Apt. 841,New Juanstad,PA,88883,747.741.9155,stacy.taylor@example.com,Monthly,Residential,2025-12-08,2026-01-07
+65,Brittany,Johnson,1540 Sara Terrace,Thomasburgh,GA,35803,5427070194,brittany.johnson@example.com,One-Time,Residential,2025-12-08,2026-03-08
+66,Pamela,Mason,163 Gibson Crest,Robinfort,SC,30341,(327)672-8068x2233,pamela.mason@example.com,Quarterly,Commercial,2025-12-08,2026-01-07
+67,Wendy,Brown,01776 Corey Island Suite 007,Brianshire,NC,38185,001-861-598-7521x97590,wendy.brown@example.com,Monthly,Residential,2025-12-08,2026-03-08
+68,Justin,Fernandez,19997 Simon Plaza Apt. 391,Caseyshire,VA,09749,(334)454-0579x463,justin.fernandez@example.com,Bi-Monthly,Residential,2025-12-08,2026-02-06
+69,Alexander,Wallace,6621 Moore Springs Apt. 935,Kleinshire,GA,05563,001-685-704-4003x67096,alexander.wallace@example.com,Weekly,Residential,2025-12-08,2026-01-07
+70,Jillian,Chavez,63343 Galvan Manor Suite 348,Meyerstad,VA,32322,369-921-7904x4161,jillian.chavez@example.com,Monthly,Residential,2025-12-08,2026-01-07
+71,Anna,Carlson,193 Torres Bridge Apt. 314,West Michaelhaven,MD,83575,(361)010-8143x1540,anna.carlson@example.com,Monthly,Residential,2025-12-08,2026-03-08
+72,Jeffrey,Woodard,954 Nicholson Circles,Anthonyfort,GA,06379,3906718573,jeffrey.woodard@example.com,One-Time,Commercial,2025-12-08,2026-02-06
+73,Richard,Arnold,7420 Whitney Brook Apt. 888,Martinberg,PA,01041,+1-313-264-8563,richard.arnold@example.com,Bi-Monthly,Commercial,2025-12-08,2026-02-06
+74,William,Morrison,5695 Pierce Summit Apt. 628,Port Jeanette,NC,53768,808.048.0789x7631,william.morrison@example.com,Quarterly,Residential,2025-12-08,2026-01-07
+75,Jacqueline,Alexander,976 Holly Coves Apt. 811,Vaughnmouth,SC,90178,+1-744-420-7873x3926,jacqueline.alexander@example.com,Weekly,Residential,2025-12-08,2026-01-07
+76,Sherri,Cantrell,74745 Cathy Greens,Lake Dawn,GA,69789,042-432-5288,sherri.cantrell@example.com,Weekly,Residential,2025-12-08,2026-01-07
+77,Lawrence,White,034 Bishop Lodge,Leslieberg,VA,45445,(583)064-6391x08518,lawrence.white@example.com,Weekly,Commercial,2025-12-08,2026-02-06
+78,Bruce,White,317 Ashley Common,South Amytown,VA,96839,+1-275-505-9435x0728,bruce.white@example.com,Weekly,Residential,2025-12-08,2026-02-06
+79,Scott,Chapman,15041 James Turnpike Apt. 415,South Patricia,SC,48275,351.845.0244x127,scott.chapman@example.com,One-Time,Residential,2025-12-08,2026-02-06
+80,Maria,Porter,42664 Farley Courts,West Janetmouth,SC,86369,389-847-8981,maria.porter@example.com,Weekly,Commercial,2025-12-08,2026-02-06
+81,Carmen,Williams,463 Michael Shoal Apt. 693,Jasonland,VA,75148,336-122-1022x6044,carmen.williams@example.com,Bi-Monthly,Commercial,2025-12-08,2026-01-07
+82,Jessica,Suarez,73922 Smith Union Apt. 223,West Alanport,NC,10764,606-293-1196x419,jessica.suarez@example.com,Weekly,Commercial,2025-12-08,2026-01-07
+83,Stefanie,Rich,7666 Richard Canyon Suite 611,Malonestad,GA,26239,4824828075,stefanie.rich@example.com,One-Time,Commercial,2025-12-08,2026-01-07
+84,William,King,18378 Yu Pine,South Annville,SC,20061,517.742.4703x80588,william.king@example.com,Weekly,Commercial,2025-12-08,2026-02-06
+85,Anthony,Stewart,44557 Liu Flats,Sydneymouth,MD,53663,+1-613-483-9352x18612,anthony.stewart@example.com,One-Time,Residential,2025-12-08,2026-03-08
+86,Michael,Taylor,3964 Orozco Corners Apt. 134,Kendrashire,PA,37051,+1-767-336-0945x95583,michael.taylor@example.com,Bi-Monthly,Commercial,2025-12-08,2026-03-08
+87,Sandra,Fowler,79772 Roberts Stream Suite 195,Laurachester,NC,81487,(753)323-9897x7989,sandra.fowler@example.com,Quarterly,Commercial,2025-12-08,2026-02-06
+88,Alexandria,Blanchard,666 Harold Streets Apt. 322,Susanton,SC,67223,777-732-3417x8427,alexandria.blanchard@example.com,One-Time,Residential,2025-12-08,2026-03-08
+89,Lisa,Horn,858 Ochoa Flat Apt. 157,South Emmabury,MD,01579,522.740.1084x58102,lisa.horn@example.com,One-Time,Commercial,2025-12-08,2026-01-07
+90,John,Bentley,9439 Hill Isle,Natalieville,GA,27326,(398)336-8132,john.bentley@example.com,Monthly,Commercial,2025-12-08,2026-02-06
+91,Michael,Schultz,070 Coleman Mall Apt. 134,East Jessica,MD,24048,835-782-7014,michael.schultz@example.com,Quarterly,Residential,2025-12-08,2026-03-08
+92,Todd,Williams,13823 Porter Ridge,Colechester,SC,95881,555.901.3600x77882,todd.williams@example.com,Monthly,Commercial,2025-12-08,2026-01-07
+93,Rachel,Garza,172 Murphy Loaf,New Renee,VA,46818,584.906.3981x70215,rachel.garza@example.com,One-Time,Residential,2025-12-08,2026-03-08
+94,Debra,Garcia,5923 Figueroa Parkways Suite 871,Scottton,SC,89578,196.388.6930x225,debra.garcia@example.com,One-Time,Commercial,2025-12-08,2026-01-07
+95,Ricky,Perez,82532 Richard Extensions Apt. 718,North Meghan,MD,22822,814-842-5005x532,ricky.perez@example.com,One-Time,Commercial,2025-12-08,2026-03-08
+96,Sean,Long,73614 Peggy Lakes Suite 691,North Gina,SC,78908,711.867.8610x2229,sean.long@example.com,Monthly,Residential,2025-12-08,2026-02-06
+97,Michael,Mack,58027 Williams Ports,South Adambury,SC,73553,1567815881,michael.mack@example.com,Bi-Monthly,Commercial,2025-12-08,2026-02-06
+98,Matthew,Obrien,71686 James Centers Suite 743,Rodriguezview,SC,82069,473.682.3750,matthew.obrien@example.com,Monthly,Residential,2025-12-08,2026-01-07
+99,Dana,Maldonado,61230 Diane Circle,New Christopher,VA,62884,001-135-546-1040,dana.maldonado@example.com,One-Time,Commercial,2025-12-08,2026-02-06
+100,Sheena,Powell,87735 Pamela Canyon Suite 920,Tylerstad,VA,03385,509-908-7312x65154,sheena.powell@example.com,Quarterly,Commercial,2025-12-08,2026-03-08
